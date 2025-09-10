@@ -4,7 +4,7 @@ library(palmerpenguins)
 library(ggplot2)
 
 ui <- fluidPage(
-  titlePanel("Palmer Penguins Explorer"),
+  titlePanel("AWESOME APPP!!!!!"),
   
   sidebarLayout(
     sidebarPanel(
